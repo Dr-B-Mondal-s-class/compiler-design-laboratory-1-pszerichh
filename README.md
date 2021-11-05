@@ -1,5 +1,7 @@
 Name: Manas Ranjan Parida
 Roll No: 2019UGCS042R
+Name of the lab instructor: Dr. Bhaskar Mondal
+			    https://github.com/bhaskarfx
 Lab-1/
 	Lex-Lab-1.1.l: Write a lex program to detect whether the character input is a digit or an alphabet
 		       The expected input is a single character.
